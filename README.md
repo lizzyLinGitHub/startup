@@ -8,3 +8,6 @@ KEY FEATURES:
 -Ability to click into the dock to see the SMART plan you made for your goal
 -Reminders to help you keep on pace to achieve the goal
 -Connecting with friends to help keep you accountable
+
+
+<img width="877" alt="Screenshot 2023-01-27 at 1 15 11 PM" src="https://user-images.githubusercontent.com/122473979/215188532-c4731fb6-d453-4ec3-9294-dea2759e332a.png">
