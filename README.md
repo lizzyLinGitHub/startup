@@ -15,3 +15,7 @@ KEY FEATURES:
 
 
 <img width="877" alt="Screenshot 2023-01-27 at 1 15 11 PM" src="https://user-images.githubusercontent.com/122473979/215188532-c4731fb6-d453-4ec3-9294-dea2759e332a.png">
+
+
+What I learned from Simon:
+html is pretty straight forward. Using the Simon as an example, it will be pretty easy to add into my website different actions and functions. VSCode also has several helps to make writing in html quicker and more intuitive.
