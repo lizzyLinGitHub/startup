@@ -19,3 +19,5 @@ KEY FEATURES:
 
 What I learned from Simon:
 html is pretty straight forward. Using the Simon as an example, it will be pretty easy to add into my website different actions and functions. VSCode also has several helps to make writing in html quicker and more intuitive.
+
+The deployFiles.sh took me awhile to understand and get through. I understand each element of it now, and I uploaded it to my startup because it will be usefull when deploying my startup. I know I have deployed before, but I want to keep it at easy access.
