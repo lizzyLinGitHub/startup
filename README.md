@@ -29,3 +29,17 @@ Here are all the resources I will be coming back to as I do my own CSS:
 <img width="872" alt="Screenshot 2023-02-21 at 6 23 32 AM" src="https://user-images.githubusercontent.com/122473979/220356504-61a7760b-1b34-4f84-924f-d4e35701ac0e.png">
 <img width="522" alt="Screenshot 2023-02-21 at 6 23 46 AM" src="https://user-images.githubusercontent.com/122473979/220356540-8560f864-a203-4f81-b20b-66b9732ebbbe.png">
 <img width="869" alt="Screenshot 2023-02-21 at 6 23 56 AM" src="https://user-images.githubusercontent.com/122473979/220356579-d9cf2e93-a10f-4a51-ad8a-475465cf9ec3.png">
+
+
+
+JavaScript Notes:
+Arrow functions help with syntax, including a function as a parameter of a function.
+
+Regular Expressions Example:
+<img width="794" alt="Screenshot 2023-03-06 at 7 35 15 PM" src="https://user-images.githubusercontent.com/122473979/223305172-83da7c6c-0bb0-4798-bc06-c9bb57f347a6.png">
+
+Promise Example:
+<img width="433" alt="Screenshot 2023-03-06 at 10 12 38 PM" src="https://user-images.githubusercontent.com/122473979/223326507-f5f85cc4-cf6a-477c-8666-323755a94759.png">
+
+Async/Await example:
+<img width="859" alt="Screenshot 2023-03-06 at 10 13 29 PM" src="https://user-images.githubusercontent.com/122473979/223326633-c9e7fcc3-4d10-4b44-b8de-3a2b371805a1.png">
