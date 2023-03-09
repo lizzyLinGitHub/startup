@@ -89,7 +89,25 @@ Need the colon!!
 
 <img width="1014" alt="Screenshot 2023-03-09 at 1 51 17 PM" src="https://user-images.githubusercontent.com/122473979/224154728-9f9d6f84-8c8b-460b-bec9-ff2f7fa50cea.png">
 Know what these four commands do.
+<img width="706" alt="Screenshot 2023-03-09 at 4 18 00 PM" src="https://user-images.githubusercontent.com/122473979/224182325-90d1609f-e825-44cf-8dd2-7aad8c200a20.png">
+<img width="855" alt="Screenshot 2023-03-09 at 4 19 18 PM" src="https://user-images.githubusercontent.com/122473979/224182533-1b8cfb47-41a8-4fa6-a838-95eb24b8eb16.png">
 
+<img width="719" alt="Screenshot 2023-03-09 at 4 20 09 PM" src="https://user-images.githubusercontent.com/122473979/224182623-201b713a-c1a4-4e51-98f6-75a41aa5bee2.png">
+<img width="763" alt="Screenshot 2023-03-09 at 4 20 23 PM" src="https://user-images.githubusercontent.com/122473979/224182659-2720ed13-8559-48b8-8494-f547a4512e91.png">
+<img width="570" alt="Screenshot 2023-03-09 at 4 22 13 PM" src="https://user-images.githubusercontent.com/122473979/224182910-30c383d9-2762-4c95-a31a-a7d9d07bc281.png">
+<img width="742" alt="Screenshot 2023-03-09 at 4 23 17 PM" src="https://user-images.githubusercontent.com/122473979/224183110-0f778ada-3650-49de-bec3-4a09806c6313.png">
+
+  
+  -l flad lists with detailed information. -a flad lists hidden files and directories.
+  
+  <img width="720" alt="Screenshot 2023-03-09 at 4 27 17 PM" src="https://user-images.githubusercontent.com/122473979/224183646-1da0b91b-165d-4a2c-a735-1a83436d7c2c.png">
+<img width="890" alt="Screenshot 2023-03-09 at 4 30 19 PM" src="https://user-images.githubusercontent.com/122473979/224183994-a04fc1da-095f-4b1d-85c0-95bf208e9d6a.png">
+
+  
+  
+  
+  
+  
 WEB SERVERS:
 TLD - top level domain, like com, edu, gov
 
