@@ -108,3 +108,70 @@ TLD - top level domain, like com, edu, gov
 <img width="902" alt="Screenshot 2023-03-09 at 2 26 03 PM" src="https://user-images.githubusercontent.com/122473979/224163423-67525fd7-b565-400c-9256-4efe24ef1c1f.png">
 <img width="895" alt="Screenshot 2023-03-09 at 2 26 20 PM" src="https://user-images.githubusercontent.com/122473979/224163476-08d41bea-1888-4862-8d7c-331ab2b80a49.png">
 <img width="887" alt="Screenshot 2023-03-09 at 2 26 31 PM" src="https://user-images.githubusercontent.com/122473979/224163525-fbc03d2b-9bf9-4d25-b6a5-ca1fbd2434e0.png">
+  
+  
+  
+  
+  
+HTML and CSS!
+  
+
+<img width="899" alt="Screenshot 2023-03-09 at 2 28 10 PM" src="https://user-images.githubusercontent.com/122473979/224163815-6346e147-d5c2-46b6-98fe-5b8eb338ed1d.png">
+<img width="907" alt="Screenshot 2023-03-09 at 2 28 25 PM" src="https://user-images.githubusercontent.com/122473979/224163853-19783597-828a-4db3-be7c-e63a392c2643.png">
+<img width="917" alt="Screenshot 2023-03-09 at 2 28 37 PM" src="https://user-images.githubusercontent.com/122473979/224163882-9aaf2f5c-e365-422b-89f9-a4cccab51a78.png">
+<img width="808" alt="Screenshot 2023-03-09 at 2 28 53 PM" src="https://user-images.githubusercontent.com/122473979/224163922-c0d7dc3c-5efe-404d-8aa7-c986168b8de2.png">
+<img width="757" alt="Screenshot 2023-03-09 at 2 29 04 PM" src="https://user-images.githubusercontent.com/122473979/224163964-0e09536f-6077-453c-b17c-273e50bc2bdb.png">
+<img width="852" alt="Screenshot 2023-03-09 at 2 29 16 PM" src="https://user-images.githubusercontent.com/122473979/224164012-40bedd7c-c128-4ff2-9cca-c0d1ea1bd9cf.png">
+<img width="652" alt="Screenshot 2023-03-09 at 2 29 28 PM" src="https://user-images.githubusercontent.com/122473979/224164054-0c178486-a458-4e71-8b25-cd12445fb590.png">
+<img width="654" alt="Screenshot 2023-03-09 at 2 29 52 PM" src="https://user-images.githubusercontent.com/122473979/224164136-db3376c5-b710-4307-b35f-1ea758960f92.png">
+<img width="673" alt="Screenshot 2023-03-09 at 2 30 25 PM" src="https://user-images.githubusercontent.com/122473979/224164249-b84ec200-7ce5-47e9-9947-bc4ee601d782.png">
+<img width="610" alt="Screenshot 2023-03-09 at 2 30 49 PM" src="https://user-images.githubusercontent.com/122473979/224164319-9894a0de-9e9e-4917-aea6-3c95c2fc4af3.png">
+<img width="630" alt="Screenshot 2023-03-09 at 2 31 03 PM" src="https://user-images.githubusercontent.com/122473979/224164368-35ad005a-8aa7-44a9-beaa-12b3cac03e1f.png">
+<img width="623" alt="Screenshot 2023-03-09 at 2 31 13 PM" src="https://user-images.githubusercontent.com/122473979/224164404-a670c355-2b8a-4a24-8448-1d64c2f2ae75.png">
+<img width="647" alt="Screenshot 2023-03-09 at 2 31 26 PM" src="https://user-images.githubusercontent.com/122<img width="621" alt="Screenshot 2023-03-09 at 2 31 38 PM" src="https://user-images.githubusercontent.com/122473979/224164473-bb7e667d-bc9b-4437-b695-6c1f9e688913.png">
+473979/224164442-2be784be-6fe7-473c-a94c-3b7e13a59f27.png">
+<img width="752" alt="Screenshot 2023-03-09 at 2 31 58 PM" src="https://user-images.githubusercontent.com/122473979/224164531-a9022718-f894-4e3d-b8fb-867707570046.png">
+<img width="598" alt="Screenshot 2023-03-09 at 2 32 09 PM" src="https://user-images.githubusercontent.com/122473979/224164579-e86ea5c8-c2fd-41af-ad5d-a1056873aa48.png">
+<img width="806" alt="Screenshot 2023-03-09 at 2 32 55 PM" src="https://user-images.githubusercontent.com/122473979/224164774-ed44f5ab-fa50-4308-b91f-285e99fb0510.png">
+<img width="824" alt="Screenshot 2023-03-09 at 2 33 03 PM" src="https://user-images.githubusercontent.com/122473979/224164799-8b3b6dfa-e934-4ae3-ad8a-4ac2ef594d7f.png">
+<img width="823" alt="Screenshot 2023-03-09 at 2 33 12 PM" src="https://user-images.githubusercontent.com/122473979/224164849-54dbaa26-7319-47fc-8c4e-48d2f18d0336.png">
+<img width="803" alt="Screenshot 2023-03-09 at 2 33 23 PM" src="https://user-images.githubusercontent.com/122473979/224164888-b73ceacf-180b-4225-bc18-f9f937daa688.png">
+<img width="792" alt="Screenshot 2023-03-09 at 2 33 33 PM" src="https://user-images.githubusercontent.com/122473979/224164923-3e602edb-51a0-4657-892a-3b9b66d7d23c.png">
+<img width="793" alt="Screenshot 2023-03-09 at 2 34 12 PM" src="https://user-images.githubusercontent.com/122473979/224165076-f2d35b0c-ea18-44a1-a8bc-e43f52cd9866.png">
+<img width="806" alt="Screenshot 2023-03-09 at 2 34 35 PM" src="https://user-images.githubusercontent.com/122473979/224165151-00c36d08-bda3-491f-9b42-714fb109c4d2.png">
+
+  
+  
+  
+  
+  
+  
+CSS
+  
+  
+<img width="799" alt="Screenshot 2023-03-09 at 2 35 33 PM" src="https://user-images.githubusercontent.com/122473979/224165333-97170ff9-a70e-4082-9975-4bc684475022.png">
+<img width="807" alt="Screenshot 2023-03-09 at 2 35 52 PM" src="https://user-images.githubusercontent.com/122473979/224165401-22a4dc0f-7bb6-4580-a516-f74250953f44.png">
+<img width="844" alt="Screenshot 2023-03-09 at 2 36 04 PM" src="https://user-images.githubusercontent.com/122473979/224165429-0d9dcabe-f7e7-456a-a829-9f6c4905142c.png">
+<img width="795" alt="Screenshot 2023-03-09 at 2 36 18 PM" src="https://user-images.githubusercontent.com/122473979/224165473-a9fc9c71-e678-45be-9504-f53406cf9c39.png">
+<img width="816" alt="Screenshot 2023-03-09 at 2 36 29 PM" src="https://user-images.githubusercontent.com/122473979/224165506-5187a2eb-39d5-4f37-988e-2acb715811f1.png">
+<img width="822" alt="Screenshot 2023-03-09 at 2 37 40 PM" src="https://user-images.githubusercontent.com/122473979/224165749-3cf533c6-bc4a-4f90-a1d5-bfd3ee0ed544.png">
+<img width="834" alt="Screenshot 2023-03-09 at 2 37 50 PM" src="https://user-images.githubusercontent.com/122473979/224165779-ac2d1e31-5d92-47d8-876d-90febfa3a743.png">
+<img width="809" alt="Screenshot 2023-03-09 at 2 38 00 PM" src="https://user-images.githubusercontent.com/122473979/224165813-c9e3f717-cb42-493a-9738-1f4f6589f1dd.png">
+<img width="840" alt="Screenshot 2023-03-09 at 2 38 08 PM" src="https://user-images.githubusercontent.com/122473979/224165841-466c9f66-16c4-43c1-b402-2e1dd579e6c0.png">
+<img width="794" alt="Screenshot 2023-03-09 at 2 38 17 PM" src="https://user-images.githubusercontent.com/122473979/224165866-a312cc71-ea58-4bd9-b1c6-8b77079c3da9.png">
+<img width="531" alt="Screenshot 2023-03-09 at 2 38 37 PM" src="https://user-images.githubusercontent.com/122473979/224165945-7dde37ec-dd74-43b1-8e11-d676779ba75b.png">
+<img width="542" alt="Screenshot 2023-03-09 at 2 38 49 PM" src="https://user-images.githubusercontent.com/122473979/224165993-4c062feb-2a89-42ad-989f-0ee96993b3be.png">
+<img width="710" alt="Screenshot 2023-03-09 at 2 38 59 PM" src="https://user-images.githubusercontent.com/122473979/224166026-222a44fc-f2e4-4e16-820d-ffeb68f271f8.png">
+<img width="705" alt="Screenshot 2023-03-09 at 2 39 17 PM" src="https://user-images.githubusercontent.com/122473979/224166072-c904842e-51b2-4c37-ac12-ebb9b9d96eb6.png">
+<img width="748" alt="Screenshot 2023-03-09 at 2 39 55 PM" src="https://user-images.githubusercontent.com/122473979/224166191-2c3ddb28-82da-4163-a140-e0cfadbf6dd5.png">
+<img width="701" alt="Screenshot 2023-03-09 at 2 40 08 PM" src="https://user-images.githubusercontent.com/122473979/224166236-aa5fdf87-67bb-4074-9d18-bfc143bf47de.png">
+<img width="700" alt="Screenshot 2023-03-09 at 2 40 32 PM" src="https://user-images.githubusercontent.com/122473979/224166308-3f01c93d-213a-4a8c-82a4-7643091b68b8.png">
+<img width="705" alt="Screenshot 2023-03-09 at 2 40 54 PM" src="https://user-images.githubusercontent.com/122473979/224166379-9b6476d4-ba3a-475d-a789-b3b9dda2ddfe.png">
+<img width="690" alt="Screenshot 2023-03-09 at 2 41 03 PM" src="https://user-images.githubusercontent.com/122473979/224166423-3664f831-85c2-477a-bc08-ded675e603bc.png">
+<img width="700" alt="Screenshot 2023-03-09 at 2 41 13 PM" src="https://user-images.githubusercontent.com/122473979/224166460-03575bab-d716-4902-a7a2-d7c7f97a54ef.png">
+<img width="701" alt="Screenshot 2023-03-09 at 2 41 24 PM" src="https://user-images.githubusercontent.com/122473979/224166493-49b244ab-58dc-4f22-8032-ea1ace483332.png">
+<img width="714" alt="Screenshot 2023-03-09 at 2 41 38 PM" src="https://user-images.githubusercontent.com/122473979/224166555-3638fede-d927-4ea4-9500-0acf277a7803.png">
+<img width="677" alt="Screenshot 2023-03-09 at 2 41 59 PM" src="https://user-images.githubusercontent.com/122473979/224166629-b23df8fd-8b8c-4b1b-aecf-068aac3d27d4.png">
+<img width="709" alt="Screenshot 2023-03-09 at 2 42 11 PM" src="https://user-images.githubusercontent.com/122473979/224166670-4820b568-6e44-4655-a5eb-79dfab0ba0b5.png">
+<img width="718" alt="Screenshot 2023-03-09 at 2 42 20 PM" src="https://user-images.githubusercontent.com/122473979/224166701-04f6c09b-31e7-47c9-be8c-ef808ce417d5.png">
+<img width="712" alt="Screenshot 2023-03-09 at 2 42 32 PM" src="https://user-images.githubusercontent.com/122473979/224166745-28322d57-26a9-4406-83f0-ceb5bcb6aeb5.png">
