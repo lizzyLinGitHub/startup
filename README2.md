@@ -91,4 +91,20 @@ Need the colon!!
 Know what these four commands do.
 
 WEB SERVERS:
+TLD - top level domain, like com, edu, gov
 
+<img width="744" alt="Screenshot 2023-03-09 at 2 16 45 PM" src="https://user-images.githubusercontent.com/122473979/224161715-08b6a30b-c74b-4666-a08b-d16f1bbfabb2.png">
+<img width="752" alt="Screenshot 2023-03-09 at 2 17 12 PM" src="https://user-images.githubusercontent.com/122473979/224161810-509d6a7c-eb4e-433b-8b37-973bc61d93e2.png">
+  
+
+<img width="890" alt="Screenshot 2023-03-09 at 2 23 00 PM" src="https://user-images.githubusercontent.com/122473979/224162858-2b69ab1b-f10a-4238-b3d0-6c44f1831e7e.png">
+<img width="894" alt="Screenshot 2023-03-09 at 2 23 41 PM" src="https://user-images.githubusercontent.com/1<img width="641" alt="Screenshot 2023-03-09 at 2 23 52 PM" src="https://user-images.githubusercontent.com/122473979/224163011-c79d0ee4-40ff-43b8-bd88-d3e732cf042f.png">
+22473979/224162982-81ecce0c-9c02-4f49-b3ab-871218edd31b.png">
+<img width="915" alt="Screenshot 2023-03-09 at 2 24 25 PM" src="https://user-images.githubusercontent.com/122473979/224163118-1e10fc9a-e599-4c66-a454-6f9fe8140d34.png">
+<img width="913" alt="Screenshot 2023-03-09 at 2 24 37 PM" src="https://user-images.githubusercontent.com/122473979/224163160-b22a2a11-692f-462e-9d99-a571e521b05c.png">
+<img width="906" alt="Screenshot 2023-03-09 at 2 24 49 PM" src="https://user-images.githubusercontent.com/122473979/224163200-6c6c68c5-7daa-4164-807d-b388bde52733.png">
+<img width="915" alt="Screenshot 2023-03-09 at 2 25 13 PM" src="https://user-images.githubusercontent.com/122473979/224163271-a8eda1ad-ba4d-4391-b312-3586a7e0e7f9.png">
+<img width="892" alt="Screenshot 2023-03-09 at 2 25 27 PM" src="https://user-images.githubusercontent.com/122473979/224163320-f4d9b6ff-f4e7-488f-8917-55f8a5566d29.png">
+<img width="902" alt="Screenshot 2023-03-09 at 2 26 03 PM" src="https://user-images.githubusercontent.com/122473979/224163423-67525fd7-b565-400c-9256-4efe24ef1c1f.png">
+<img width="895" alt="Screenshot 2023-03-09 at 2 26 20 PM" src="https://user-images.githubusercontent.com/122473979/224163476-08d41bea-1888-4862-8d7c-331ab2b80a49.png">
+<img width="887" alt="Screenshot 2023-03-09 at 2 26 31 PM" src="https://user-images.githubusercontent.com/122473979/224163525-fbc03d2b-9bf9-4d25-b6a5-ca1fbd2434e0.png">
