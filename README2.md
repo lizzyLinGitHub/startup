@@ -6,8 +6,7 @@ Notes from the Midterm Review:
 To point to another DNS record, you should use the following DNS record type: CNAME is an alias to another A record. A records point to literal IP Address. CNAME lets you change the IP address later without having to redirect everything. 
 
 
-<img width="1010" alt="Screenshot 2023-03-09 at 1 36 40 PM" src="https://user-images.githubusercontent.com/122473979/224150499-551958f6-0ccd-4737-8a76-942961ca8aa8.png">
-TRUE
+<img width="1010" alt="Screenshot 2023-03-09 at 1 36 40 PM" src="https://user-images.githubusercontent.com/122473979/224150499-551958f6-0ccd-4737-8a76-942961ca8aa8.png">TRUE
 
 
 <img width="1013" alt="Screenshot 2023-03-09 at 1 37 30 PM" src="https://user-images.githubusercontent.com/122473979/224150880-22e7f636-ab3d-446e-b93b-40f43c8e3677.png">
