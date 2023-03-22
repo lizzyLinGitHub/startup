@@ -22,6 +22,18 @@ html is pretty straight forward. Using the Simon as an example, it will be prett
 
 The deployFiles.sh took me awhile to understand and get through. I understand each element of it now, and I uploaded it to my startup because it will be usefull when deploying my startup. I know I have deployed before, but I want to keep it at easy access.
 
+
+What I learned from Simon Service:
+<img width="1031" alt="Screenshot 2023-03-21 at 7 40 12 PM" src="https://user-images.githubusercontent.com/122473979/226779731-db306ebb-f5b1-41ed-ad96-41e85afb8c33.png">
+
+UI Testing is super important/difficult because there are so many things to test. But there is software we can do to help us!
+
+
+
+
+
+
+
 What I learned from Simon CSS:
 
 Here are all the resources I will be coming back to as I do my own CSS:
