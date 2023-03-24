@@ -2,9 +2,13 @@
 CS 260 - Web Programming Startup
 
 What I learned from MONGO DB:
+
 I got much more profficient in command line editing during this whole exercise. 
 
 Keeping your db login credentials is important to avoid hackers getting into your database. 
+
+
+
 
 
 
