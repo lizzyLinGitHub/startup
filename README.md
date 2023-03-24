@@ -1,6 +1,13 @@
 # startup
 CS 260 - Web Programming Startup
 
+What I learned from MONGO DB:
+I got much more profficient in command line editing during this whole exercise. 
+
+Keeping your db login credentials is important to avoid hackers getting into your database. 
+
+
+
 Setting a goal is a step on the road to progression, but it is just a start! In order to actually become better in all areas of life, we need to keep track of our goals and act to make it happen. This application is a central location to track your goals. You put in your goal, and the aplication walks you through the process to make it a SMART goal (SMART stands for specific, measurable, achievable, relevant, and time-bound).You will create a plan to accomplish it, and the application includes options for reminders, monthly and weekly breakdowns for accomplishing your goal, and a timer countdown to show how much longer you have left to achieve your goal. 
 
 KEY FEATURES:
