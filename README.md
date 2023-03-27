@@ -2,7 +2,12 @@
 CS 260 - Web Programming Startup
 
 What I learned from SIMON Login:
+
+
+
 Endpoint design
+
+
 Using HTTP we can map out the design of each of our endpoints.
 
 Create authentication endpoint
