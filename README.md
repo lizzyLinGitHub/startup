@@ -1,7 +1,7 @@
 # startup
 CS 260 - Web Programming Startup
 
-What I learned from MONGO DB:
+What I learned from SIMON DB:
 
 I got much more profficient in command line editing during this whole exercise. 
 
