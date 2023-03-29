@@ -1,6 +1,11 @@
 # startup
 CS 260 - Web Programming Startup
 
+What I learned from SIMON WEBSOCKET:
+<img width="1021" alt="Screenshot 2023-03-29 at 5 41 52 PM" src="https://user-images.githubusercontent.com/122473979/228691809-6be95c83-cc2f-4873-9348-9ea836a4966e.png">
+<img width="1053" alt="Screenshot 2023-03-29 at 5 42 05 PM" src="https://user-images.githubusercontent.com/122473979/228691838-3635a514-c17c-402f-8240-ae48d91c5eba.png">
+
+
 What I learned from SIMON Login:
 
 
