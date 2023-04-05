@@ -133,3 +133,24 @@ button:focus {
     background-color: #28a745;
     color: white;
 }
+
+/* FAQ page */
+.faq-item {
+    border-bottom: 1px solid #ccc;
+}
+
+.faq-question {
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+}
+
+.faq-answer {
+    display: none;
+    padding: 15px;
+    background-color: white;
+    font-size: 14px;
+}
