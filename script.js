@@ -46,3 +46,17 @@ document.getElementById('next-quote').addEventListener('click', () => {
 
 displayGoals();
 displayQuote(currentQuoteIndex);
+
+document.getElementById("add-goal-btn").addEventListener("click", function () {
+    const goalInput = document.getElementById("new-goal");
+    const goalText = goalInput.value.trim();
+
+    if (goalText) {
+        const goalItem = document.createElement("li");
+        goalItem.classList.add("goal");
+        goalItem.innerText = goalText;
+        document.getElementById("goals-list").appendChild(goalItem);
+        goalInput.value = "";
+    }
+});
+
