@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Startup - Home</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="login.css">
 </head>
 <body>
     <nav>
@@ -18,16 +19,22 @@
     <main>
         <h1>Goals Overview</h1>
         <ul id="goals">
-            <li>Goal 1</li>
-            <li>Goal 2</li>
-            <li>Goal 3</li>
+            <!-- Goals will be added dynamically here -->
         </ul>
 
-        <h1>Inspirational Quotes</h1>
+        <form id="goal-form">
+            <label for="goal-input">Add Goal:</label>
+            <input type="text" id="goal-input" name="goal" required>
+            <label for="goal-date">Due Date:</label>
+            <input type="date" id="goal-date" name="goalDate" required>
+            <button type="submit">Add Goal</button>
+        </form>
+
+        <h2>Inspirational Quotes</h2>
         <div id="quote-carousel">
-            <p id="quote"></p>
-            <p id="author"></p>
-            <button id="next-button">Next</button>
+            <p id="quote-text">Press "Next" to get an inspirational quote.</p>
+            <p id="quote-author"></p>
+            <button id="next-quote">Next</button>
         </div>
     </main>
     <script src="script.js"></script>
