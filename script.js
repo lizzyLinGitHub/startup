@@ -1,65 +1,23 @@
-const goals = [
-    { id: 1, description: 'Learn Python' },
-    { id: 2, description: 'Start a blog' },
-    { id: 3, description: 'Run a marathon' },
-];
-
-const quotes = [
-    { author: 'Nelson Mandela', text: 'It always seems impossible until it\'s done.' },
-    { author: 'Steve Jobs', text: 'Your time is limited, don\'t waste it living someone else\'s life.' },
-    { author: 'Oprah Winfrey', text: 'You become what you believe.' },
-];
-
-let currentQuoteIndex = 0;
-
-function displayGoals() {
-    const goalsList = document.getElementById('goals-list');
-    goals.forEach(goal => {
-        const goalItem = document.createElement('li');
-        goalItem.textContent = goal.description;
-        goalItem.classList.add('goal');
-        goalsList.appendChild(goalItem);
-    });
-}
-
-function displayQuote(index) {
-    const quote = quotes[index];
-    const quoteText = document.getElementById('quote-text');
-    quoteText.textContent = `${quote.text} - ${quote.author}`;
-}
-
-document.getElementById('prev-quote').addEventListener('click', () => {
-    currentQuoteIndex--;
-    if (currentQuoteIndex < 0) {
-        currentQuoteIndex = quotes.length - 1;
-    }
-    displayQuote(currentQuoteIndex);
-});
-
-document.getElementById('next-quote').addEventListener('click', () => {
-    currentQuoteIndex++;
-    if (currentQuoteIndex >= quotes.length) {
-        currentQuoteIndex = 0;
-    }
-    displayQuote(currentQuoteIndex);
-});
-
-displayGoals();
-displayQuote(currentQuoteIndex);
-
-document.getElementById("add-goal-btn").addEventListener("click", function () {
-    const goalInput = document.getElementById("new-goal");
-    const goalText = goalInput.value.trim();
-
-    if (goalText) {
-        const goalItem = document.createElement("li");
-        goalItem.classList.add("goal");
-        goalItem.innerText = goalText;
-        document.getElementById("goals-list").appendChild(goalItem);
-        goalInput.value = "";
+// FullCalendar v5 initialization
+document.addEventListener("DOMContentLoaded", function () {
+    if (document.getElementById("calendar")) {
+        var calendarEl = document.getElementById("calendar");
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+            initialView: "dayGridMonth",
+            headerToolbar: {
+                left: "prev,next today",
+                center: "title",
+                right: "dayGridMonth,timeGridWeek,timeGridDay",
+            },
+            editable: true,
+            selectable: true,
+            navLinks: true,
+        });
+        calendar.render();
     }
 });
 
+// FAQ accordion functionality
 document.addEventListener("DOMContentLoaded", function () {
     const faqItems = document.querySelectorAll(".faq-item");
 
@@ -71,6 +29,34 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+// Quote functionality
+function nextQuote() {
+    fetch("https://api.quotable.io/random")
+        .then((response) => response.json())
+        .then((data) => {
+            const quote = data.content;
+            const author = data.author;
+            document.getElementById("quote").innerText = quote;
+            document.getElementById("author").innerText = author;
+        })
+        .catch((error) => {
+            console.error("Error fetching quote:", error);
+            document.getElementById("quote").innerText = "Error fetching quote";
+            document.getElementById("author").innerText = "";
+        });
+}
 
+// Fetch the initial quote when the page loads
+document.addEventListener("DOMContentLoaded", function () {
+    if (document.getElementById("quote-carousel")) {
+        nextQuote();
+    }
+});
 
-
+// Add event listener to the Next button
+document.addEventListener("DOMContentLoaded", function () {
+    const nextButton = document.getElementById("next-button");
+    if (nextButton) {
+        nextButton.addEventListener("click", nextQuote);
+    }
+});

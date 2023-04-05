@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Startup</title>
+    <title>Startup - Home</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -17,20 +17,17 @@
     </nav>
     <main>
         <h1>Goals Overview</h1>
-        <div id="add-goal">
-            <input type="text" id="new-goal" placeholder="Enter your new goal">
-            <button id="add-goal-btn">Add Goal</button>
-        </div>
-        <ul id="goals-list">
-            <!-- Goals will be populated here -->
+        <ul id="goals">
+            <li>Goal 1</li>
+            <li>Goal 2</li>
+            <li>Goal 3</li>
         </ul>
+
         <h1>Inspirational Quotes</h1>
         <div id="quote-carousel">
-            <div id="quote-text">
-                <!-- Quote text will be displayed here -->
-            </div>
-            <button id="prev-quote">Previous</button>
-            <button id="next-quote">Next</button>
+            <p id="quote"></p>
+            <p id="author"></p>
+            <button id="next-button">Next</button>
         </div>
     </main>
     <script src="script.js"></script>
