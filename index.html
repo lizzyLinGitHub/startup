@@ -1,186 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-    <!-- Bootstrap components loaded from CDN -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link href="https://getbootstrap.com/docs/5.1/assets/css/docs.css" rel="stylesheet">
-    <title>Bootstrap 5 Example</title>
-  </head>
-  
-  <body>
-    <!-- Header -->
-    <div class="container">
-      <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
-        <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
-          <h1>Your Goals</h1>
-        </a>
-  
-        <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-          <li><a href="#" class="nav-link px-2 link-secondary">Home</a></li>
-          <li><a href="#" class="nav-link px-2 link-dark">Calendar</a></li>
-          <li><a href="#" class="nav-link px-2 link-dark">Friends</a></li>
-          <li><a href="#" class="nav-link px-2 link-dark">FAQs</a></li>
-          <li><a href="#" class="nav-link px-2 link-dark">About</a></li>
+    <title>Startup</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul id="menu">
+            <li class="menu-item"><a href="#" class="active">Home</a></li>
+            <li class="menu-item"><a href="#">Friends</a></li>
+            <li class="menu-item"><a href="#">Calendar</a></li>
         </ul>
-  
-        <div class="col-md-3 text-end">
-          <button type="button" class="btn btn-outline-primary me-2">Login</button>
-          <button type="button" class="btn btn-primary">Sign-up</button>
-        </div>
-      </header>
-    </div>
-  
-    <!-- Main content -->
-    <nav class="container">
-  
-      <br>
-  
-      <div class="bd-example bd-example-placeholder-cards d-flex justify-content-around">
-        <div class="card">
-          <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <title>Goal #1 Card</title>
-            <rect width="100%" height="100%" fill='#34e2eb'></rect>
-          </svg>
-  
-          <div class="card-body">
-            <h5 class="card-title">Goal #1 Name</h5>
-            <p class="card-text">Learn Chinese before the end of the year.</p>
-            <a href="#" class="btn btn-primary">Go to goal summary and plan</a>
-          </div>
-        </div>
-        <div class="card" aria-hidden="true">
-          <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <title>Goal #2 Card</title>
-            <rect width="100%" height="100%" fill="#34ebcf"></rect>
-          </svg>
-  
-          <div class="card-body">
-            <h5 class="card-title">Goal #2 Name</h5>
-            <p class="card-text">Complete a triathalon.</p>
-            <a href="#" class="btn btn-primary">Go to goal summary and plan</a>
-            </div>
-          </div>
-        
-        <div class="card" aria-hidden="true">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder" preserveAspectRatio="xMidYMid slice" focusable="false">
-              <title>Goal #3 Card</title>
-              <rect width="100%" height="100%" fill="#34eb9c"></rect>
-            </svg>
-    
-            <div class="card-body">
-              <h5 class="card-title">Goal #3 Name</h5>
-              <p class="card-text">Grow a basil plant.</p>
-              <a href="#" class="btn btn-primary">Go to goal summary and plan</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-  
-      <br>
-  
-      <div class="bd-example">
-        <div class="accordion" id="accordionExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingOne">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                Inspirational Quote #1
-              </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-              <div class="accordion-body">
-                <strong>“Believe you can and you’re halfway there.” — Theodore Roosevelt</strong> 
-              </div>
-            </div>
-          </div>
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingTwo">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Inspirational Quote #2
-              </button>
-            </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-              <div class="accordion-body">
-                <strong>“I can't change the direction of the wind, but I can adjust my sails to always reach my destination.” — Jimmy Dean</strong> 
-              </div>
-            </div>
-          </div>
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="headingThree">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Inspirational Quote #3
-              </button>
-            </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-              <div class="accordion-body">
-                <strong>“The only limit to the height of your achievements is the reach of your dreams and your willingness to work for them.” — Michelle Obama</strong> 
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-  
-      <br>
-  
-      <div class="bd-example">
-        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-          <div class="carousel-indicators">
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
-          </div>
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: First slide" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#777"></rect><text x="50%" y="50%" fill="#555" dy=".3em">First slide</text>
-              </svg>
-  
-            </div>
-            <div class="carousel-item">
-              <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Second slide" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#666"></rect><text x="50%" y="50%" fill="#444" dy=".3em">Second slide</text>
-              </svg>
-  
-            </div>
-            <div class="carousel-item">
-              <svg class="bd-placeholder-img bd-placeholder-img-lg d-block w-100" width="800" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Third slide" preserveAspectRatio="xMidYMid slice" focusable="false">
-                <title>Placeholder</title>
-                <rect width="100%" height="100%" fill="#555"></rect><text x="50%" y="50%" fill="#333" dy=".3em">Third slide</text>
-              </svg>
-  
-            </div>
-          </div>
-          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
-          </button>
-          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
-          </button>
-        </div>
-      </div>
-  
-      </div>
-      <br>
     </nav>
-  
-    <!-- Footer -->
-    <div class="container">
-      <footer class="py-3 my-4">
-        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Home</a></li>
-          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Features</a></li>
-          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">Pricing</a></li>
-          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">FAQs</a></li>
-          <li class="nav-item"><a href="#" class="nav-link px-2 text-muted">About</a></li>
+    <main>
+        <h1>Goals Overview</h1>
+        <ul id="goals-list">
+            <!-- Goals will be populated here -->
         </ul>
-        <p class="text-center text-muted">&copy; 2021 Company, Inc</p>
-      </footer>
-    </div>
-  
-    <!-- Necessary JavaScript for interactive components -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-  </body>
+        <h1>Inspirational Quotes</h1>
+        <div id="quote-carousel">
+            <div id="quote-text">
+                <!-- Quote text will be displayed here -->
+            </div>
+            <button id="prev-quote">Previous</button>
+            <button id="next-quote">Next</button>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
