@@ -72,20 +72,5 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
-// Calendar functionality
 
-$(document).ready(function () {
-    if ($("#calendar").length) {
-        $("#calendar").fullCalendar({
-            header: {
-                left: "prev,next today",
-                center: "title",
-                right: "month,agendaWeek,agendaDay",
-            },
-            defaultDate: new Date(),
-            navLinks: true,
-            editable: true,
-            eventLimit: true,
-        });
-    }
-});
+
