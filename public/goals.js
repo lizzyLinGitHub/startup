@@ -1,7 +1,6 @@
 
 
 async function fetchGoals() {
-  // Replace with your own logic to fetch goals data from your server
   const goals = await fetchGoalsFromServer();
 
   const goalList = document.getElementById('goalList');
@@ -16,10 +15,9 @@ async function fetchGoals() {
 }
 
 async function fetchGoalsFromServer() {
-  // Fetch goals data from your server, and return as an array of strings
-  // Example: return ['Goal 1', 'Goal 2', 'Goal 3'];
+
   try {
-    const response = await fetch('/api/scores');
+    const response = await fetch('/api/goals/'+getUserName());
     goals = await response.json();
 
     localStorage.setItem('goals', JSON.stringify('goals'));
@@ -29,6 +27,8 @@ async function fetchGoalsFromServer() {
       goals = JSON.parse(goalsText);
     }
   }
+
+  return goals;
 }
 
 function addNewGoal() {
@@ -36,9 +36,6 @@ function addNewGoal() {
   const newGoalDueDateInput = document.getElementById('newGoalDueDate');
   const newGoal = newGoalInput.value;
   const newGoalDueDate = newGoalDueDateInput.value;
-
-  // Add the new goal and due date to your server
-  // Example: addToServer(newGoal, newGoalDueDate);
 
   saveGoal(newGoal, newGoalDueDate);
 

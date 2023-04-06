@@ -84,8 +84,8 @@ secureApiRouter.use(async (req, res, next) => {
 });
 
 // GetScores
-secureApiRouter.get('/goals', async (req, res) => {
-  const goals = await DB.getGoals();
+secureApiRouter.get('/goals/:user', async (req, res) => {
+  const goals = await DB.getGoals(req.params.user);
   res.send(goals);
 });
 

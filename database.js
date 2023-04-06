@@ -42,8 +42,8 @@ function addGoal(goal) {
   goalCollection.insertOne(goal);
 }
 
-function getGoals() {
-  const query = {goal: {$gt: 0}};
+function getGoals(user) {
+  const query = {user: user};
   const cursor = goalCollection.find(query);
   return cursor.toArray();
 }
