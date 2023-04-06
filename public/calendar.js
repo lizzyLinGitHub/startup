@@ -1,9 +1,6 @@
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     const calendarElement = document.getElementById('calendar');
-    const goals = [
-      // Fetch goals data from your server
-      // Example: { title: 'Goal 1', dueDate: '2023-04-10' }
-    ];
+    const goals = await fetchGoalsFromServer();
   
     // Initialize calendar
     const calendar = new FullCalendar.Calendar(calendarElement, {
@@ -14,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
         right: 'dayGridMonth,timeGridWeek,timeGridDay'
       },
       events: goals.map(goal => ({
-        title: goal.title,
+        title: goal.goal,
         start: goal.dueDate,
         allDay: true
       })),
@@ -24,4 +21,24 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   
   
+  async function fetchGoalsFromServer() {
+
+    try {
+      const response = await fetch('/api/goals/'+getUserName());
+      goals = await response.json();
   
+      localStorage.setItem('goals', JSON.stringify('goals'));
+    } catch {
+      const goalsText = localStorage.getItem('goals');
+      if (goalsText) {
+        goals = JSON.parse(goalsText);
+      }
+    }
+  
+    console.log(goals);
+    return goals;
+  }
+
+  function getUserName() {
+    return localStorage.getItem('userName') ?? 'Mystery Goal Setter';
+  }
