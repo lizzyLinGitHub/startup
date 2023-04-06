@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Goals</title>
+    <link rel="stylesheet" href="goals.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <header class="container-fluid">
+      <nav class="navbar fixed-top navbar-expand-lg navbar-light" style="background-color: #4CAF50;">
+        <a class="navbar-brand" href="#">StartupYourGoals<sup>&reg;</sup></a>
+        <div class="collapse navbar-collapse">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="goals.html">Goals</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="faq.html">FAQ</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <h1 class="text-center mt-5">Your Goals</h1>
+      <div id="goalList" class="list-group mx-auto mt-3" style="width: 400px;"></div>
+      <input
+        class="form-control mt-3 mx-auto"
+        type="text"
+        id="newGoalInput"
+        placeholder="Add a new goal"
+        style="width: 400px;"
+      />
+      <button
+        type="button"
+        class="btn btn-primary mt-3"
+        onclick="addNewGoal()"
+        style="background-color: #4CAF50; border-color: #4CAF50;"
+      >
+        Add Goal
+      </button>
+
+      <!-- Add the quote carousel right after the Add Goal button -->
+      <div id="quoteCarousel" class="carousel slide mt-4" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <!-- Quotes will be added dynamically here -->
+        </div>
+        <button
+          class="carousel-control-prev"
+          type="button"
+          onclick="fetchRandomQuote().then(quoteData => addQuoteSlide(quoteData.quote, quoteData.author))"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button
+          class="carousel-control-next"
+          type="button"
+          onclick="fetchRandomQuote().then(quoteData => addQuoteSlide(quoteData.quote, quoteData.author))"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </main>
+
+    <footer class="bg-dark text-dark text-muted py-3">
+      <div class="container-fluid text-center">
+        <span class="text-reset">Lizzy Linford</span>
+        <a
+          class="text-reset"
+          href="https://github.com/lizzyLinGitHub/startup"
+          >Source</a
+        >
+      </div>
+    </footer>
+    <script src="goals.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

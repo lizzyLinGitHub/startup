@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+  background-color: #8bc34a;
+  border-color: #4CAF50;
+}
+
+.carousel-inner {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 1.5rem;
+}
+
+.blockquote {
+  font-size: 1.2rem;
+}
+
+.quote-text {
+  margin-bottom: 0.5rem;
+}
