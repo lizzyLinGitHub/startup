@@ -42,10 +42,17 @@ function addGoal(goal) {
   goalCollection.insertOne(goal);
 }
 
+function getGoals() {
+  const query = {goal: {$gt: 0}};
+  const cursor = goalCollection.find(query);
+  return cursor.toArray();
+}
+
 
 module.exports = {
   getUser,
   getUserByToken,
   createUser,
   addGoal,
+  getGoals,
 };

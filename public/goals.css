@@ -10,7 +10,7 @@ body {
 
 .carousel-inner {
   background-color: #f8f9fa;
-  border-radius: 5px;
+  border-radius: 20px;
   padding: 1.5rem;
 }
 
@@ -19,5 +19,5 @@ body {
 }
 
 .quote-text {
-  margin-bottom: 0.5rem;
+  padding-bottom: 20rem;
 }
