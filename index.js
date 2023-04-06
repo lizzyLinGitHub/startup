@@ -83,13 +83,13 @@ secureApiRouter.use(async (req, res, next) => {
   }
 });
 
-// GetScores
+// GetGoals
 secureApiRouter.get('/goals/:user', async (req, res) => {
   const goals = await DB.getGoals(req.params.user);
   res.send(goals);
 });
 
-// SubmitScore
+// Add Goal
 secureApiRouter.post('/addGoal', async (req, res) => {
   await DB.addGoal(req.body);
   const goals = await DB.getGoals();
