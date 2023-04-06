@@ -9,7 +9,7 @@ async function fetchGoals() {
   goals.forEach((goal) => {
     const goalItem = document.createElement('div');
     goalItem.className = 'list-group-item';
-    goalItem.innerText = goal.goal + goal.dueDate;
+    goalItem.innerText = `${goal.goal} (Due: ${goal.dueDate})`;
     goalList.appendChild(goalItem);
   });
 }
