@@ -1,3 +1,13 @@
+What I learned from SIMON REACT:
+<img width="1047" alt="Screenshot 2023-04-07 at 12 06 05 PM" src="https://user-images.githubusercontent.com/122473979/230656422-9e6e5e57-b328-44c3-b832-56c4a3557a8b.png">
+
+<img width="1048" alt="Screenshot 2023-04-07 at 12 06 53 PM" src="https://user-images.githubusercontent.com/122473979/230656544-e539b23e-bec9-437e-94f5-55e351fb8f43.png">
+
+
+
+
+
+
 Notes from the Midterm Review:
 <img width="1014" alt="Screenshot 2023-03-09 at 1 35 31 PM" src="https://user-images.githubusercontent.com/122473979/224150065-68d3a132-4e49-46c3-bd0d-c7161b39623c.png">
 
